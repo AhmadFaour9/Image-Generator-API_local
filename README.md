@@ -3,7 +3,8 @@
 A **FastAPI-based REST API** for local image generation using AI models such as **Stable Diffusion 1.5** and **FLUX**.
 The project is inspired by **Ollama**, but focused on generating **images instead of text**.
 
----
+---<img width="1756" height="1007" alt="Gemini_Generated_Image_8dyoc48dyoc48dyo" src="https://github.com/user-attachments/assets/3e94f24e-fc67-401a-b642-8c800b7c89ac" />
+
 
 ## ✨ Features
 
